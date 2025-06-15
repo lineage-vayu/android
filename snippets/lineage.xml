@@ -219,7 +219,6 @@
   <project path="lineage/wiki" name="LineageOS/lineage_wiki" groups="infra" revision="main" />
 
   <!-- Device trees -->
-  <project path="kernel/xiaomi/vayu" name="lineage-vayu/kernel_xiaomi_sm8150" revision="android-v" />
   <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" />
 
   <!-- Tools -->
